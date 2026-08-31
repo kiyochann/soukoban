@@ -1,7 +1,6 @@
 using Const;
 using System.Collections.Generic;
 using Unity.VisualScripting;
-using UnityEditor.U2D.Aseprite;
 using UnityEngine;
 
 
